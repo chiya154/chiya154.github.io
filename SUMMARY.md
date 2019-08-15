@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [有顶天网络Wiki首页](README.md)
 
