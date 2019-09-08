@@ -4,7 +4,7 @@ description: 东方网络Wiki各词条的目录
 
 # 有顶天网络Wiki首页
 
-欢迎使用顶天网络！这里将指导您软件和网站使用的方方面面。
+欢迎使用有顶天网络！这里将指导您软件和网站使用的方方面面。
 
 * 软件使用
   * [SSR Windows](ruan-jian-shi-yong/ruan-jian-shi-yong.md)
