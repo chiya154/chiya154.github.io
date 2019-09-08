@@ -21,7 +21,7 @@ description: SSR Windows客户端使用教程
 
 1、右键右下角托盘处的白色小飞机图标→服务器订阅→SSR服务器订阅设置
 
-2、 先点击Add，再将订阅地址（点击[这里](https://wiki.touhou.to/ssr-server-subscribe)查看如何获取订阅地址）复制进“网址”栏，点击确定。  
+2、 先点击Add，再将订阅地址（点击 [这里](https://wiki.touhou.tw/wang-zhan-shi-yong/xuan-ze-jie-dian) 查看如何获取订阅地址）复制进“网址”栏，点击确定。  
 **注意：** 一定要确保将订阅地址复制进“网址”栏，替换掉点击Add时自动产生的地址。
 
 3、右键小飞机→服务器订阅→更新SSR服务器订阅
