@@ -10,35 +10,63 @@ description: SSR Windows客户端使用教程
 
 1、将文件下载到非中文目录。
 
- ![](../.gitbook/assets/jie-ya.png) 
+  
+
+![&#x4E0B;&#x8F7D;&#x5230;&#x975E;&#x4E2D;&#x6587;&#x76EE;&#x5F55;&#x5E76;&#x89E3;&#x538B;](../.gitbook/assets/jie-ya.png)
 
 2、运行ShadowsocksR.exe（同时为了安全起见，请不要使用360、百度、2345等全家桶）
 
-  ![](../.gitbook/assets/yun-hang.png) 
+   
+
+![&#x8FD0;&#x884C;](../.gitbook/assets/yun-hang.png)
 
 3、第一次运行可能需要允许通过防火墙，勾选全部网络，点击允许访问。
 
-![](../.gitbook/assets/fang-huo-qiang.png) 
+ 
+
+![&#x9632;&#x706B;&#x5899;&#x8BBE;&#x7F6E;](../.gitbook/assets/fang-huo-qiang.png)
 
 4、 **注意：** 客户端配置完成前，建议先使用直连模式，以免导致无法访问一些网站，配置完成后使用PAC模式或全局模式。  
 右键小飞机→系统代理模式→直连模式
 
-![](../.gitbook/assets/qie-huan-zhi-lian.png) 
+ 
+
+![&#x5207;&#x6362;&#x76F4;&#x8FDE;](../.gitbook/assets/qie-huan-zhi-lian.png)
 
 ## 设置服务器订阅
 
 1、右键右下角托盘处的白色小飞机图标→服务器订阅→SSR服务器订阅设置
 
+ 
+
+![&#x670D;&#x52A1;&#x5668;&#x8BA2;&#x9605;&#x9009;&#x9879;](../.gitbook/assets/fu-wu-qi-ding-yue-she-zhi.png)
+
 2、 先点击Add，再将订阅地址（点击 [这里](https://wiki.touhou.tw/wang-zhan-shi-yong/xuan-ze-jie-dian) 查看如何获取订阅地址）复制进“网址”栏，点击确定。  
 **注意：** 一定要确保将订阅地址复制进“网址”栏，替换掉点击Add时自动产生的地址。
 
+ 
+
+![&#x8BA2;&#x9605;&#x8BBE;&#x7F6E;](../.gitbook/assets/ding-yue-she-zhi.png)
+
 3、右键小飞机→服务器订阅→更新SSR服务器订阅
+
+ 
+
+![&#x66F4;&#x65B0;&#x8BA2;&#x9605;](../.gitbook/assets/geng-xin-ding-yue.png)
+
+ 
+
+![&#x66F4;&#x65B0;&#x6210;&#x529F;&#x540E;&#x63D0;&#x793A;&#x5982;&#x4E0B;](../.gitbook/assets/geng-xin-cheng-gong.png)
 
 ## 选择节点
 
- 1、右键小飞机→服务器→东方网络，选择合适的节点（点击这里查看如何选择合适的节点）。
+ 1、右键小飞机→服务器→有顶天网络，选择合适的节点（点击这里查看如何选择合适的节点）。
 
-2、客户端默认开启负载均衡，意思是将流量分配到不同的节点上，这将导致使用IP变动或速度低下。 为了使用指定的节点，防止遇到奇怪的问题，请关闭负载均衡。
+ 
+
+![&#x8282;&#x70B9;&#x9009;&#x62E9;](../.gitbook/assets/jie-dian-xuan-ze.png)
+
+2、**有的客户端默认开启负载均衡，意思是将流量分配到不同的节点上，这将导致使用IP变动或速度低下。 为了使用指定的节点，防止遇到奇怪的问题，请关闭负载均衡。**
 
 ## 选择代理模式
 
@@ -50,7 +78,9 @@ description: SSR Windows客户端使用教程
 
 右键小飞机→系统代理模式→PAC模式
 
+ 
 
+![&#x6A21;&#x5F0F;&#x5207;&#x6362;&#x4E3A;PAC&#x6A21;&#x5F0F;](../.gitbook/assets/xuan-ze-pac-dai-li-mo-shi.png)
 
 第一次使用需要更新PAC 右键小飞机→PAC→更新PAC为GFWList
 
