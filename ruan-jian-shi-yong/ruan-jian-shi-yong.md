@@ -10,14 +10,20 @@ description: SSR Windows客户端使用教程
 
 1、将文件下载到非中文目录。
 
-![](../.gitbook/assets/jie-ya.png) 
+ ![](../.gitbook/assets/jie-ya.png) 
 
 2、运行ShadowsocksR.exe（同时为了安全起见，请不要使用360、百度、2345等全家桶）
 
+  ![](../.gitbook/assets/yun-hang.png) 
+
 3、第一次运行可能需要允许通过防火墙，勾选全部网络，点击允许访问。
+
+![](../.gitbook/assets/fang-huo-qiang.png) 
 
 4、 **注意：** 客户端配置完成前，建议先使用直连模式，以免导致无法访问一些网站，配置完成后使用PAC模式或全局模式。  
 右键小飞机→系统代理模式→直连模式
+
+![](../.gitbook/assets/qie-huan-zhi-lian.png) 
 
 ## 设置服务器订阅
 
