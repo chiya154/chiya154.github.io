@@ -84,13 +84,25 @@ description: SSR Windows客户端使用教程
 
 第一次使用需要更新PAC 右键小飞机→PAC→更新PAC为GFWList
 
+ 
 
+![&#x66F4;&#x65B0;&#x4E3A;GFWList&#x89C4;&#x5219;](../.gitbook/assets/geng-xin-wei-gfwlist.png)
 
 如果你是海外用户，想要翻回国内，请选择更新PAC为仅通过大陆常见域名（国外访问大陆）。
 
+ 
 
+![&#x66F4;&#x65B0;&#x4E3A;&#x5927;&#x9646;&#x5E38;&#x89C1;&#x57DF;&#x540D;](../.gitbook/assets/geng-xin-wei-guo-wai-fang-wen-da-lu.png)
 
 此时可以正常上网
+
+ 
+
+![&#x66F4;&#x65B0;PAC&#x6210;&#x529F;&#x540E;&#x63D0;&#x793A;&#x5982;&#x4E0B;&#xFF08;Win10&#xFF09;](../.gitbook/assets/geng-xin-pac-cheng-gong.png)
+
+ 
+
+![&#x6B63;&#x5E38;&#x4E0A;&#x7F51;.jpg](../.gitbook/assets/zheng-chang-shang-wang.png)
 
 * **全局模式**
 
@@ -99,25 +111,35 @@ description: SSR Windows客户端使用教程
 
 右键小飞机→系统代理模式→全局模式
 
+ 
 
+![&#x9009;&#x62E9;&#x5168;&#x5C40;&#x6A21;&#x5F0F;](../.gitbook/assets/xuan-ze-quan-ju-mo-shi.png)
 
 右键小飞机→代理规则→绕过局域网和大陆
 
+ 
 
+![&#x7ED5;&#x8FC7;&#x5C40;&#x57DF;&#x7F51;&#x548C;&#x5927;&#x9646;](../.gitbook/assets/rao-guo-ju-yu-wang-he-da-lu.png)
 
 如果你是海外用户，想要翻回国内，请选择绕过局域网和非大陆。
 
+ 
 
+![&#x7ED5;&#x8FC7;&#x5C40;&#x57DF;&#x7F51;&#x548C;&#x975E;&#x5927;&#x9646;](../.gitbook/assets/rao-guo-ju-yu-wang-he-fei-da-lu.png)
 
 此时可以正常上网
+
+ 
+
+![&#x6CA1;&#x9519;&#x53C8;&#x662F;&#x6211;.jpg](../.gitbook/assets/zheng-chang-shang-wang%20%281%29.png)
 
 ## 使用SOCKS5代理 <a id="&#x4F7F;&#x7528;-socks-5-&#x4EE3;&#x7406;"></a>
 
 软件运行时提供一个本地SOCKS5代理，地址为127.0.0.1，端口为1080。 如果你的软件支持SOCKS5代理，就可以设置使用。 以Telegram为例
 
+ 
 
-
-
+![&#x4E0D;&#x8981;&#x770B;&#x6211;&#x8FA3;&#xFF01;&#x770B;&#x56FE;w\(&#xFF9F;&#x414;&#xFF9F;\)w](../.gitbook/assets/telegram-set-proxy.png)
 
 ## 设置开机启动 <a id="&#x8BBE;&#x7F6E;&#x5F00;&#x673A;&#x542F;&#x52A8;"></a>
 
@@ -125,9 +147,15 @@ description: SSR Windows客户端使用教程
 
 右键小飞机→选项设置
 
+ 
 
+![&#x9009;&#x9879;&#x8BBE;&#x7F6E;&#x5728;&#x8FD9;&#x91CC;&#x54E6;ww](../.gitbook/assets/dian-kai-xuan-xiang-she-zhi.png)
 
 勾选开机启动，点击确定。
+
+ 
+
+![&#x5C31;&#x662F;&#x8FD9;&#x6837;w](../.gitbook/assets/kai-ji-qi-dong.png)
 
 ## 断开连接与退出 <a id="&#x65AD;&#x5F00;&#x8FDE;&#x63A5;&#x4E0E;&#x9000;&#x51FA;"></a>
 
@@ -135,11 +163,15 @@ description: SSR Windows客户端使用教程
 
 此时软件不再代理，效果与退出软件相同。
 
+ 
 
+![&#x63A8;&#x8350;&#x8FD9;&#x4E2A;&#x6837;&#x5B50;&#x54E6;~](../.gitbook/assets/geng-gai-wei-zhi-lian-mo-shi.png)
 
  右键小飞机→退出  
 下次使用直接打开该软件，选择代理模式和节点即可。  
 **注意：** 退出软件前需要先设置为直连模式
 
+ 
 
+![&#x8FD9;&#x6837;&#x5B50;&#x70B9;&#x51FB;&#x5DE6;&#x952E;&#x5C31;&#x9000;&#x51FA;&#x8FA3;&#xFF01;](../.gitbook/assets/tui-chu.png)
 
