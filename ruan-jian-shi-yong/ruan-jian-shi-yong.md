@@ -8,7 +8,9 @@ description: SSR Windows客户端使用教程
 
 [点击这里下载客户端](https://down.touhou.asia/ssr-download/ssr-win.7z)
 
-1、将文件下载到非中文目录。[https://image.touhou.tw/ssrwin/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85/%E8%A7%A3%E5%8E%8B.png](https://image.touhou.tw/ssrwin/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85/%E8%A7%A3%E5%8E%8B.png)
+1、将文件下载到非中文目录。
+
+![](../.gitbook/assets/jie-ya.png) 
 
 2、运行ShadowsocksR.exe（同时为了安全起见，请不要使用360、百度、2345等全家桶）
 
