@@ -1,5 +1,5 @@
 ---
-description: 东方网络Wiki各词条的目录
+description: 有顶天网络Wiki各词条的目录
 ---
 
 # 有顶天网络Wiki首页
